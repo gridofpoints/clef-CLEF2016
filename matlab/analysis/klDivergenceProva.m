@@ -1,0 +1,40 @@
+klDivergence(1:size(pdf_ah_mono_bg_2005_grid,2),pdf_ah_mono_bg_2005_grid, pdf_ah_mono_bg_2005_original)
+klDivergence(1:size(pdf_ah_mono_bg_2006_grid,2),pdf_ah_mono_bg_2006_grid, pdf_ah_mono_bg_2006_original)
+klDivergence(1:size(pdf_ah_mono_bg_2007_grid,2),pdf_ah_mono_bg_2007_grid, pdf_ah_mono_bg_2007_original)
+
+klDivergence(1:size(pdf_ah_mono_de_2000_grid,2),pdf_ah_mono_de_2000_grid, pdf_ah_mono_de_2000_original)
+klDivergence(1:size(pdf_ah_mono_de_2001_grid,2),pdf_ah_mono_de_2001_grid, pdf_ah_mono_de_2001_original)
+klDivergence(1:size(pdf_ah_mono_de_2002_grid,2),pdf_ah_mono_de_2002_grid, pdf_ah_mono_de_2002_original)
+klDivergence(1:size(pdf_ah_mono_de_2003_grid,2),pdf_ah_mono_de_2003_grid, pdf_ah_mono_de_2003_original)
+
+klDivergence(1:size(pdf_ah_mono_es_2001_grid,2),pdf_ah_mono_es_2001_grid, pdf_ah_mono_es_2001_original)
+klDivergence(1:size(pdf_ah_mono_es_2002_grid,2),pdf_ah_mono_es_2002_grid, pdf_ah_mono_es_2002_original)
+klDivergence(1:size(pdf_ah_mono_es_2003_grid,2),pdf_ah_mono_es_2003_grid, pdf_ah_mono_es_2003_original)
+
+klDivergence(1:size(pdf_ah_mono_fi_2002_grid,2),pdf_ah_mono_fi_2002_grid, pdf_ah_mono_fi_2002_original)
+klDivergence(1:size(pdf_ah_mono_fi_2003_grid,2),pdf_ah_mono_fi_2003_grid, pdf_ah_mono_fi_2003_original)
+klDivergence(1:size(pdf_ah_mono_fi_2004_grid,2),pdf_ah_mono_fi_2004_grid, pdf_ah_mono_fi_2004_original)
+
+klDivergence(1:size(pdf_ah_mono_fr_2000_grid,2),pdf_ah_mono_fr_2000_grid, pdf_ah_mono_fr_2000_original)
+klDivergence(1:size(pdf_ah_mono_fr_2001_grid,2),pdf_ah_mono_fr_2001_grid, pdf_ah_mono_fr_2001_original)
+klDivergence(1:size(pdf_ah_mono_fr_2002_grid,2),pdf_ah_mono_fr_2002_grid, pdf_ah_mono_fr_2002_original)
+klDivergence(1:size(pdf_ah_mono_fr_2003_grid,2),pdf_ah_mono_fr_2003_grid, pdf_ah_mono_fr_2003_original)
+klDivergence(1:size(pdf_ah_mono_fr_2004_grid,2),pdf_ah_mono_fr_2004_grid, pdf_ah_mono_fr_2004_original)
+klDivergence(1:size(pdf_ah_mono_fr_2005_grid,2),pdf_ah_mono_fr_2005_grid, pdf_ah_mono_fr_2005_original)
+klDivergence(1:size(pdf_ah_mono_fr_2006_grid,2),pdf_ah_mono_fr_2006_grid, pdf_ah_mono_fr_2006_original)
+
+klDivergence(1:size(pdf_ah_mono_hu_2005_grid,2),pdf_ah_mono_hu_2005_grid, pdf_ah_mono_hu_2005_original)
+klDivergence(1:size(pdf_ah_mono_hu_2006_grid,2),pdf_ah_mono_hu_2006_grid, pdf_ah_mono_hu_2006_original)
+klDivergence(1:size(pdf_ah_mono_hu_2007_grid,2),pdf_ah_mono_hu_2007_grid, pdf_ah_mono_hu_2007_original)
+
+klDivergence(1:size(pdf_ah_mono_it_2000_grid,2),pdf_ah_mono_it_2000_grid, pdf_ah_mono_it_2000_original)
+klDivergence(1:size(pdf_ah_mono_it_2001_grid,2),pdf_ah_mono_it_2001_grid, pdf_ah_mono_it_2001_original)
+klDivergence(1:size(pdf_ah_mono_it_2002_grid,2),pdf_ah_mono_it_2002_grid, pdf_ah_mono_it_2002_original)
+klDivergence(1:size(pdf_ah_mono_it_2003_grid,2),pdf_ah_mono_it_2003_grid, pdf_ah_mono_it_2003_original)
+
+klDivergence(1:size(pdf_ah_mono_pt_2004_grid,2),pdf_ah_mono_pt_2004_grid, pdf_ah_mono_pt_2004_original)
+klDivergence(1:size(pdf_ah_mono_pt_2005_grid,2),pdf_ah_mono_pt_2005_grid, pdf_ah_mono_pt_2005_original)
+klDivergence(1:size(pdf_ah_mono_pt_2006_grid,2),pdf_ah_mono_pt_2006_grid, pdf_ah_mono_pt_2006_original)
+
+klDivergence(1:size(pdf_ah_mono_sv_2002_grid,2),pdf_ah_mono_sv_2002_grid, pdf_ah_mono_sv_2002_original)
+klDivergence(1:size(pdf_ah_mono_sv_2003_grid,2),pdf_ah_mono_sv_2003_grid, pdf_ah_mono_sv_2003_original)
